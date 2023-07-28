@@ -1,0 +1,16 @@
+body {
+  background-image: linear-gradient(to bottom, #025373, #024873);
+  color: white;
+  padding: 25px;
+
+}
+
+a {
+    color: rgb(124, 159, 27); /* Cor padrão para links não visitados */
+    font-size: 38px;
+  }
+  
+  a:hover {
+    color: red; /* Cor quando o cursor está em cima do link */
+  }
+  

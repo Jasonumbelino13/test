@@ -1,0 +1,31 @@
+body {
+  background-image: linear-gradient(to bottom, #025373, #024873);
+  color: white;
+  padding: 25px;
+
+}
+
+/* Estilização base para os links */
+
+nav {
+    font-size: 25px;
+  }
+
+nav.p {
+    font-size: 30px;
+  }
+
+nav ul li a {
+    color: #d50e0e;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  /* Efeito de hover para os links */
+  nav ul li a:hover {
+    background-color: #608af5;
+    border-radius: 5px;
+  }
+  
+
+  
